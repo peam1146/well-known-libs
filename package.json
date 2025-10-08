@@ -1,0 +1,19 @@
+{
+  "name": "well-known-libs",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "generate": "bun scripts/generate-quiz.mjs",
+    "predev": "bun scripts/generate-quiz.mjs",
+    "prebuild": "bun scripts/generate-quiz.mjs",
+    "preexport": "bun scripts/generate-quiz.mjs",
+    "build": "slidev build pages/quiz.generated.md",
+    "dev": "slidev --open pages/quiz.generated.md",
+    "export": "slidev export pages/quiz.generated.md"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.1.0",
+    "@slidev/theme-default": "latest",
+    "vue": "^3.5.18"
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "title": "Guess the Tech - Geek Edition",
+  "items": [
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/react.svg",
+      "answer": "React"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/rust.svg",
+      "answer": "Rust"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/tauri.svg",
+      "answer": "Tauri"
+    },
+    {
+      "type": "image",
+      "src": "https://vitejs.dev/logo.svg",
+      "answer": "Vite"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/gleam.svg",
+      "answer": "Gleam"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/angular-icon.svg",
+      "answer": "Angular"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/zig.svg",
+      "answer": "Zig"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/svelte-icon.svg",
+      "answer": "Svelte"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/nim.svg",
+      "answer": "Nim"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/nextjs-icon.svg",
+      "answer": "Next.js"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/solid.svg",
+      "answer": "SolidJS"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/nodejs-icon.svg",
+      "answer": "Node.js"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/bun.svg",
+      "answer": "Bun"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/express.svg",
+      "answer": "Express.js"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/hono.svg",
+      "answer": "Hono"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/nestjs.svg",
+      "answer": "NestJS"
+    },
+    {
+      "type": "image",
+      "src": "https://elysiajs.com/assets/elysia.svg",
+      "answer": "Elysia"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/webpack.svg",
+      "answer": "Webpack"
+    },
+    {
+      "type": "image",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoGWHHwLvmIV3vF6LlrGLndPNpbh7IM0GLCw&s",
+      "answer": "Rspack"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/rollup.svg",
+      "answer": "Rollup"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/turbo.svg",
+      "answer": "Turbo"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/eslint.svg",
+      "answer": "ESLint"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/biome.svg",
+      "answer": "Biome"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/jest.svg",
+      "answer": "Jest"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/unocss.svg",
+      "answer": "UnoCSS"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/tailwindcss-icon.svg",
+      "answer": "Tailwind CSS"
+    },
+    {
+      "type": "image",
+      "src": "https://avatars.githubusercontent.com/u/79109951?s=200&v=4",
+      "answer": "Windi CSS"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/redux.svg",
+      "answer": "Redux"
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.candycode.com/jotai/jotai-mascot.png",
+      "answer": "Jotai"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/graphql.svg",
+      "answer": "GraphQL"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/trpc.svg",
+      "answer": "tRPC"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/prisma.svg",
+      "answer": "Prisma"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/drizzle.svg",
+      "answer": "Drizzle"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/mongodb-icon.svg",
+      "answer": "MongoDB"
+    },
+    {
+      "type": "image",
+      "src": "https://avatars.githubusercontent.com/u/10982346?s=280&v=4",
+      "answer": "SurrealDB"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/postgresql.svg",
+      "answer": "PostgreSQL"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/planetscale.svg",
+      "answer": "PlanetScale"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/docker-icon.svg",
+      "answer": "Docker"
+    },
+    {
+      "type": "image",
+      "src": "https://avatars.githubusercontent.com/u/487568?v=4",
+      "answer": "Nix"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/kubernetes.svg",
+      "answer": "Kubernetes"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/nomad.svg",
+      "answer": "Nomad"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/aws.svg",
+      "answer": "AWS"
+    },
+    {
+      "type": "image",
+      "src": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/173aca66-f621-4d73-9cfb-222dac16ff3b.webp",
+      "answer": "Fly.io"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/vercel-icon.svg",
+      "answer": "Vercel"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/railway.svg",
+      "answer": "Railway"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/firebase.svg",
+      "answer": "Firebase"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/appwrite.svg",
+      "answer": "Appwrite"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/git-icon.svg",
+      "answer": "Git"
+    },
+    {
+      "type": "image",
+      "src": "https://jj-vcs.github.io/jj/latest/images/jj-logo.svg",
+      "answer": "Jujutsu"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/npm-icon.svg",
+      "answer": "npm"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/pnpm.svg",
+      "answer": "pnpm"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/lodash.svg",
+      "answer": "Lodash"
+    },
+    {
+      "type": "image",
+      "src": "https://ramdajs.com/ramdaFilled_200x235.png",
+      "answer": "Ramda"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/axios.svg",
+      "answer": "Axios"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/d3.svg",
+      "answer": "D3.js"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/observable.svg",
+      "answer": "Observable"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/threejs.svg",
+      "answer": "Three.js"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/storybook-icon.svg",
+      "answer": "Storybook"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/deno.svg",
+      "answer": "Deno"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/ocaml.svg",
+      "answer": "OCaml"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/go.svg",
+      "answer": "Go"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/odin.svg",
+      "answer": "Odin"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/python.svg",
+      "answer": "Python"
+    },
+    {
+      "type": "image",
+      "src": "https://cdn.prod.website-files.com/64174a9fd03969ab5b930a08/655bb5eeccbf9e75f726083c_fire.png",
+      "answer": "Mojo"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/jupyter.svg",
+      "answer": "Jupyter"
+    },
+    {
+      "type": "image",
+      "src": "https://livebook.dev/_astro/logo.BssQPQVp_1AkXS4.svg",
+      "answer": "Livebook"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/tensorflow.svg",
+      "answer": "TensorFlow"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/pytorch-icon.svg",
+      "answer": "PyTorch"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/neovim.svg",
+      "answer": "Neovim"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/helix.svg",
+      "answer": "Helix"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/logos/visual-studio-code.svg",
+      "answer": "VS Code"
+    },
+    {
+      "type": "image",
+      "src": "https://avatars.githubusercontent.com/u/79345384?v=4",
+      "answer": "Zed"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/tmux.svg",
+      "answer": "tmux"
+    },
+    {
+      "type": "image",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ntZnIs-cICKvQbyk0mlr6Vpx8tKX4JXd6A&s",
+      "answer": "Zellij"
+    },
+    {
+      "type": "image",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Fish_icon.png",
+      "answer": "Fish Shell"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/nushell.svg",
+      "answer": "Nushell"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/alacritty.svg",
+      "answer": "Alacritty"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/wezterm.svg",
+      "answer": "WezTerm"
+    },
+    {
+      "type": "image",
+      "src": "https://api.iconify.design/simple-icons/starship.svg",
+      "answer": "Starship"
+    },
+    {
+      "type": "image",
+      "src": "https://gsap.com/community/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png",
+      "answer": "GSAP | Green sock"
+    },
+    {
+      "type": "image",
+      "src": "https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg",
+      "answer": "Proxyman"
+    },
+    {
+      "type": "image",
+      "src": "https://tauri-apps.gallerycdn.vsassets.io/extensions/tauri-apps/tauri-vscode/0.2.9/1726500083534/Microsoft.VisualStudio.Services.Icons.Default",
+      "answer": "Tauri"
+    },
+    {
+      "type": "image",
+      "src": "https://emberjs.com/images/tomsters/teaching-reverse.png",
+      "answer": "Amber.js"
+    },
+    {
+      "type": "image",
+      "src": "https://avatars.githubusercontent.com/u/134972826?v=4",
+      "answer": "Melt UI"
+    },
+    {
+      "type": "image",
+      "src": "https://mastra.ai/favicon/icon-512.png",
+      "answer": "Mastra"
+    },
+    {
+      "type": "image",
+      "src": "https://avatars.githubusercontent.com/u/3863375?s=280&v=4",
+      "answer": "Knockout js"
+    },
+    {
+      "type": "image",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Deno_Logo_2024.svg/1200px-Deno_Logo_2024.svg.png",
+      "answer": "Deno"
+    },
+    {
+      "type": "image",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1PdBd0XMyzREeMuVP18JIDkhBXJKY4ufTQ&s",
+      "answer": "Anthropic"
+    },
+    {
+      "type": "image",
+      "src": "https://cdn-icons-png.flaticon.com/512/12222/12222560.png",
+      "answer": "ChatGPT"
+    },
+    {
+      "type": "image",
+      "src": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png",
+      "answer": "Perplexity"
+    },
+    {
+      "type": "image",
+      "src": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png",
+      "answer": "Perplexity"
+    },
+    {
+      "type": "image",
+      "src": "https://pbs.twimg.com/profile_images/1682268668321726464/NEb6_n7n_400x400.jpg",
+      "answer": "OpenRouter"
+    },
+    {
+      "type": "image",
+      "src": "https://pbs.twimg.com/profile_images/961052733510893568/wbWiekmv_400x400.jpg",
+      "answer": "FFmpeg"
+    }
+  ]
+}
